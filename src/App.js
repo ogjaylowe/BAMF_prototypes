@@ -31,7 +31,7 @@ function App() {
         <li className="">
           <a className="uk-accordion-title" href="#">Hide card feature: Demo -- Click card to see post (text overlay)</a>
           <div className="uk-accordion-content">
-            In progress!
+            <PrototypeThree />
           </div>
 
 
